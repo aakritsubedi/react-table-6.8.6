@@ -33,7 +33,7 @@
   "dependencies": {
     "eslint-config-react-tools": "^1.0.10",
     "github-markdown-css": "^2.6.0",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "namor": "^1.0.1",
     "raw-loader": "^0.5.1",
     "react": "^15.5.4",
